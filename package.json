@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://MarvinWilliam@github.com/MarvinWilliam/gulp-mock-inject.git"
   },
+  "scripts": {
+    "test": "npm run ./test/test.js"
+  },
   "keywords": [
     "gulpplugin",
     "mock",
@@ -17,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/MarvinWilliam/gulp-mock-inject/issues"
   },
-  "homepage": "https://github.com/MarvinWilliam/gulp-mock-inject#readme"
+  "homepage": "https://github.com/MarvinWilliam/gulp-mock-inject#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "through2": "^2.0.1"
+  }
 }
