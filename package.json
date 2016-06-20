@@ -1,0 +1,21 @@
+{
+  "name": "gulp-mock-inject",
+  "version": "1.0.0",
+  "description": "Inject mock script into html file for development",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://MarvinWilliam@github.com/MarvinWilliam/gulp-mock-inject.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "mock",
+    "scriptinject"
+  ],
+  "author": "marvinwilliam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarvinWilliam/gulp-mock-inject/issues"
+  },
+  "homepage": "https://github.com/MarvinWilliam/gulp-mock-inject#readme"
+}
