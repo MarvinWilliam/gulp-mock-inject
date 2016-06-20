@@ -48,8 +48,11 @@ Html file should have inject sign like:
 ```
 
 **options.script**
+
 Type:`String`
+
 Path of script.
 
 **`dist()`**
+
 Clear injected script for build.
